@@ -1,5 +1,7 @@
 Lab 1:
 Exercice 1
+
+
 <img width="316" height="41" alt="ex1" src="https://github.com/user-attachments/assets/f456c0ef-0404-4c54-b754-f6bda9dd71c0" />
 
 Exercice 2
